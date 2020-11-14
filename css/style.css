@@ -93,7 +93,7 @@ nav {
     font-size: .8em;
     text-transform: capitalize;
     display: initial;
-    margin: 0;
+    margin-top: -1em;
     letter-spacing: 1px;
     color: #fff;
     font-weight: 600;
